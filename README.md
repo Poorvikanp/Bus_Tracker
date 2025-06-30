@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bus Tracker - Thirthahalli ↔ Shivamogga
 
 A real-time bus tracking system for the Thirthahalli to Shivamogga route and vice versa.
@@ -115,3 +116,7 @@ Create a `.env` file in the backend directory:
 MONGO_URI=mongodb://localhost:27017/bus-tracker
 JWT_SECRET=your_secret_key
 ``` 
+=======
+# Bus_Tracker
+ Bus Tracker is a full-stack web application to monitor and update bus schedules and locations for the Thirthahalli–Shivamogga route. Built with React, Node.js, and MongoDB.
+>>>>>>> 17361b212dcb77f10e172ef7cfb27da493eae2ea
